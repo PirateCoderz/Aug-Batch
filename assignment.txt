@@ -1,0 +1,18 @@
+create a form that collects data of your cv
+
+personal info
+
+education
+
+skills
+
+certificates
+
+achievements
+
+hobbies
+
+experience
+
+refrence
+
