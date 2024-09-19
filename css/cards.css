@@ -1,0 +1,25 @@
+/* Add your CSS styles here */
+    /* Center the cards horizontally */
+    .card-container {
+      /* display: flex;
+      justify-content: center; */
+    }
+    /* Add styles for the cards here */
+    /* Add styles for the card images here */
+    /* Add styles for the card titles and descriptions here */
+  
+
+    .card-container {
+      display: flex;
+      justify-content: center;
+    }
+
+    .card {
+      max-width: 160px;
+      background-color: blanchedalmond;
+      padding: 20px;
+      margin: 1rem;
+      border-radius: 8px;
+
+      /* display: inline-block; */
+    }

@@ -1,0 +1,22 @@
+.main-heading {
+  font-size: var(--heading);
+
+  display: var(--in);
+}
+
+
+/* block level elements par box model ki properties apply ho jati hain  */
+/* but inline elements par box model ki properties apply ni hoti hain */
+
+/* specific properties donot applied on inline elements are margin padding height width */
+
+.inline-span {
+  /* display: var(--blk); */
+
+  display: inline-block;
+
+  background-color: yellow;
+  width: 400px;
+  padding: 2rem;
+  margin: 2rem;
+}
