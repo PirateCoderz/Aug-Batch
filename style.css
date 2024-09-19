@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+}
+
+/* h2 {
+  margin: 0;
+} */
+
+
+.heading1 {
+  margin-left: 5rem;
+  margin: 10rem 1rem 10rem 5rem;
+  background-color: green;
+  /* padding: 1rem; */
+  /* padding-top: 1rem;
+  padding-bottom: 10rem;
+  padding-left: 4rem; */
+
+  padding: 1rem 0 10rem 4rem;
+  /* text-align: center; */
+
+  border:10px solid yellow;
+  border-top-width: 0;
+  border-radius: 40px;
+
+
+}
+
+
+assignment
+
+how to apply 2 values 
+how to apply 3 values in short hand code
+what is margin/padding/border - block or inline
+
+/* outline */
