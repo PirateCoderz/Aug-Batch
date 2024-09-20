@@ -10,15 +10,43 @@
   
 
     .card-container {
-      display: flex;
-      justify-content: center;
-    }
 
+      /* height: 300vh; */
+      background-color: aqua;
+      display: flex;
+      /* justify-content: start; */
+      justify-content: center;
+      justify-content: end;
+      justify-content: space-around;
+      justify-content: space-between;
+      justify-content: space-evenly;
+      justify-content: flex-start;
+      
+      
+      flex-direction: row-reverse;
+      flex-direction: row;
+
+
+      flex-wrap: wrap;
+      /* flex-wrap: nowrap; */
+
+
+      align-items: center;
+      
+      align-content: center;
+      
+      padding: 1rem;
+      gap: 1rem;
+    }
+    
     .card {
+      /* overflow-y: hidden; */
+      /* height: 200px; */
       max-width: 160px;
+      height: max-content;
       background-color: blanchedalmond;
       padding: 20px;
-      margin: 1rem;
+      /* margin: 1rem; */
       border-radius: 8px;
 
       /* display: inline-block; */
