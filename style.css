@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: cadetblue;
+  height: 50px;
+
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 12px;
+}
+
+header nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+
+  display: flex;
+  gap: 1rem;
+}
+/* 
+
+header nav ul li {
+  margin-right: 20px;
+} */
+
+header nav ul li a {
+  color: white;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
